@@ -14,7 +14,7 @@
 - 💻 Hacker & self-taught developer
 - 🔭 Exploring low-level systems and secure backends
 ### 📱 Contact
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xoferror01@gmail.com)
 
 ---
 ### 🧰 Tech Stack
@@ -68,6 +68,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xofError&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofError&layout=compact&theme=radical" height="165" />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-ali-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 ---
