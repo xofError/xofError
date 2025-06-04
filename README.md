@@ -1,19 +1,19 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1000&color=00F700&center=true&vCenter=true&width=400&lines=xofError;Cybersecurity+Student;Linux+%7C+Networks+%7C+OffSec" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1000&color=00F700&center=true&vCenter=true&width=400&lines=xofError;CE+Student;Programming+%7C+Networking+%7C+OffSec" alt="Typing SVG" />
 </h1>
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+Of+NIT+University+of+Iran;Self-taught+Tech+Enthusiast;Hacker+%26+Network+Specialist;Lover+of+Open+Source&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+Of+NIT+University;Self-taught+Tech+Enthusiast;Hacker+%26+Network+Specialist;Lover+of+Open+Source&center=true&width=500&height=45">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Student at **NIT University of Iran**
+- 🎓 Student at **NIT University**
 - 🧠 Passionate about **tech, networks, and security**
 - 💻 Hacker & self-taught developer
 - 🔭 Exploring low-level systems and secure backends
@@ -21,7 +21,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xoferror01@gmail.com)
 
 ---
-### 🧰 Tech Stack
+### 🔧  Tech Stack
 
 #### 💡 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
