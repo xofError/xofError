@@ -1,5 +1,8 @@
 
-<h1 align="center">xofError</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9D%9A%9C%F0%9D%9A%8C%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%8F%F0%9D%9A%8F%F0%9D%9A%94;aka+xofError;Cybersecurity+%7C+Networks+%7C+Linux" alt="Typing SVG" />
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+Of+NIT+University+of+Iran;Self-taught+Tech+Enthusiast;Hacker+%26+Network+Specialist;Lover+of+Open+Source&center=true&width=500&height=45">
