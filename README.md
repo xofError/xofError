@@ -1,12 +1,8 @@
 
-<pre align="center">
-███████╗██╗  ██╗ ██████╗ ███████╗███████╗██████╗  ██████╗ ██████╗ 
-██╔════╝██║  ██║██╔═══██╗██╔════╝██╔════╝██╔══██╗██╔═══██╗██╔══██╗
-███████╗███████║██║   ██║███████╗█████╗  ██████╔╝██║   ██║██████╔╝
-╚════██║██╔══██║██║   ██║╚════██║██╔══╝  ██╔═══╝ ██║   ██║██╔═══╝ 
-███████║██║  ██║╚██████╔╝███████║███████╗██║     ╚██████╔╝██║     
-╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝      ╚═════╝ ╚═╝     
-</pre>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=1000&color=00F700&center=true&vCenter=true&width=400&lines=xofError;Cybersecurity+Student;Linux+%7C+Networks+%7C+OffSec" alt="Typing SVG" />
+</h1>
+
 
 
 <p align="center">
