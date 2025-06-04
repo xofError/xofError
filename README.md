@@ -63,6 +63,18 @@
 ![Burpsuit](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
+### 🧠 Certifications & Courses
+
+![eJPTv2](https://img.shields.io/badge/eJPTv2-ElearnSecurity-orange?style=for-the-badge&logo=tryhackme)
+![CEH](https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-red?style=for-the-badge&logo=hackthebox)
+![PWK/OSCP](https://img.shields.io/badge/PWK_/_OSCP-Offensive_Security-critical?style=for-the-badge&logo=offensive-security)
+![Network+](https://img.shields.io/badge/Network%2B-CompTIA-blue?style=for-the-badge&logo=cisco)
+![CCNA](https://img.shields.io/badge/CCNA-Cisco-green?style=for-the-badge&logo=cisco)
+![Security+](https://img.shields.io/badge/Security%2B-CompTIA-blueviolet?style=for-the-badge&logo=compTIA)
+![CHFI](https://img.shields.io/badge/CHFI-Computer_Forensics-darkred?style=for-the-badge&logo=cyberdefenders)
+![OSINT](https://img.shields.io/badge/OSINT-Open_Source_Intelligence-9cf?style=for-the-badge&logo=internetarchive)
+![PEN-210](https://img.shields.io/badge/PEN--210-Offensive_Security-ff5555?style=for-the-badge&logo=protonmail)
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -70,7 +82,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofError&layout=compact&theme=radical" height="165" />
   
 </p>
----
+
 
 ### 🔥 Contribution Graph
 
@@ -78,11 +90,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xofError&theme=react-dark" />
 </p>
 
----
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=xofError&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xofError&label=Profile+views&color=0e75b6&style=flat" alt="xofError" />
