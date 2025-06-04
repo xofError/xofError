@@ -1,8 +1,8 @@
 
-<h1 align="center">Hey there 👋, I'm xofError</h1>
+<h1 align="center">xofError</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+@+NIT+University+of+Iran;Self-taught+Tech+Enthusiast;Hacker+%26+Network+Specialist;Lover+of+Open+Source&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Student+Of+NIT+University+of+Iran;Self-taught+Tech+Enthusiast;Hacker+%26+Network+Specialist;Lover+of+Open+Source&center=true&width=500&height=45">
 </p>
 
 ---
@@ -52,12 +52,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xofError&theme=react-dark" />
 </p>
-
----
-
-### 🧠 Motto
-
-> “Exploit your limits before your limits exploit you.” 🧠
 
 ---
 
