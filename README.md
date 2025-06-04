@@ -68,9 +68,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xofError&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofError&layout=compact&theme=radical" height="165" />
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-ali-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-ali-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ### 🔥 Contribution Graph
