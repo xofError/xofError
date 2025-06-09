@@ -81,6 +81,7 @@
 ![OSINT](https://img.shields.io/badge/OSINT-Open_Source_Intelligence-9cf?style=for-the-badge&logo=internetarchive)
 ![PEN-210](https://img.shields.io/badge/PEN--210-Offensive_Security-ff5555?style=for-the-badge&logo=protonmail)
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
